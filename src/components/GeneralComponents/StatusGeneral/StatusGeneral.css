@@ -1,0 +1,35 @@
+.statusOK{
+min-width: 80px;
+border: none;
+background-color: rgb(73, 205, 50);
+color: rgb(4, 103, 42);
+font-family: 'Quicksand';
+font-weight: 800;
+}
+
+.statusWarning{
+    min-width: 80px;
+    border: none;
+    background-color: rgb(232, 228, 106);
+    color: rgb(188, 155, 8);
+    font-family: 'Quicksand';
+    font-weight: 800;
+}
+
+.statusFail{
+    min-width: 80px;
+    border: none;
+    background-color: tomato;
+    color: rgb(140, 7, 7);
+    font-family: 'Quicksand';
+    font-weight: 800;
+}
+
+.statusWorking{
+    min-width: 80px;
+    border: none;
+    background-color: rgb(71, 181, 255);
+    color: rgb(24, 9, 231);
+    font-family: 'Quicksand';
+    font-weight: 800;
+}
